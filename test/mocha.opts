@@ -1,0 +1,2 @@
+--require test/boilerplate.js
+src/*.spec.js
